@@ -10,7 +10,7 @@
 src="https://img.shields.io/github/followers/tharusha1004?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharusha1004" alt="tharusha1004" /></a> </p>
 
-<img align="right" alt="Coding" width="550" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"> 
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"> 
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **tharusha.astro@gmail.com**
