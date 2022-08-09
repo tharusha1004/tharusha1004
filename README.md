@@ -11,11 +11,11 @@ src="https://img.shields.io/github/followers/tharusha1004?logo=github&style=for-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharusha1004" alt="tharusha1004" /></a> </p>
 
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"> 
-- 🌱 I’m currently learning **React**
+  🌱 I’m currently learning **React**
 
-- 📫 How to reach me **tharusha.astro@gmail.com**
+  📫 How to reach me **tharusha.astro@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+  ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
