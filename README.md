@@ -4,7 +4,7 @@
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
 
-                     💻 I'm Software Engineering student  |   👨‍🎓 Following a Degree Programe in NIBM | B.Sc.(Hons)Computing 
+                 💻 I'm Software Engineering student  |   👨‍🎓 Following a Degree Programe in NIBM | B.Sc.(Hons)Computing 
 
 <a href="https://www.github.com/tharusha1004" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tharusha1004?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a>
