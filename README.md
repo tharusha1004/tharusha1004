@@ -2,14 +2,15 @@
 
 <h1 align="center">Hi 👋, I'm Tharusha Perera</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="300" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"> 
 
-💻 I'm Software Enginering student  |   👨‍🎓 Following a Degree Programe in NIBM 
+
+💻 I'm Software Engineering student  |   👨‍🎓 Following a Degree Programe in NIBM | B.Sc.(Hons)Computing 
 
 <a href="https://www.github.com/tharusha1004" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tharusha1004?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharusha1004" alt="tharusha1004" /></a> </p>
 
+<img align="right" alt="Coding" width="300" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"> 
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **tharusha.astro@gmail.com**
