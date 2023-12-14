@@ -6,9 +6,11 @@
 
                  💻 I'm Software Engineering student  |   👨‍🎓 Following a Degree Programe in NIBM | B.Sc.(Hons)Computing 
 
+
+[![](https://visitcount.itsvg.in/api?id=tharusha1004&icon=2&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🔭 I’m currently working on "My Gaman" Web Application<br>👯 I’m looking to collaborate on Web Application projects<br>🤝 I’m looking for help with Web Application Development related projects<br>🌱 I’m currently learning java, dotnet backend technologies and DevOps concepts<br>💬 Ask me about java, dotnet related things and DevOps concepts<br>⚡ Fun fact - I am funny and easy to work with me
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tharux_dc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tharusha-perera-35092b174) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Tharush2001) 
